@@ -13,4 +13,7 @@ Technical Arcitecture:
 
 ![download](https://user-images.githubusercontent.com/83601555/201668136-d7fac769-636b-40ed-ba3f-73f84cca2358.png)
 
-
+FINAL DELIVERABLES
+1.sign_1.h5
+2.output.avi
+https://drive.google.com/drive/folders/1bnz8xr4WGThDdkACEwnZOK1hU4KhDDEN
